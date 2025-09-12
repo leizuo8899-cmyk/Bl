@@ -1,5 +1,6 @@
-# im big
-<h1>im cool</h1>
+<html>
+<body>
+<h1>im big</h1>
 <h2>im mid</h2>
 <h3>im small</h3>
 <h4>im smaller</h4>
@@ -12,3 +13,5 @@ this is a <br> line break
 <strong>im bolded</strong>
 <p><a href= "https://youtube.com">im a link</a></p>
 <img src= "https://jumpshare.com/s/Pw2OYRfoFDsyEU5kjIIW" width="100" height="100"> this is a picture that doesn't load for somereason
+</body>
+</html>
