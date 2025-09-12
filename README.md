@@ -11,3 +11,4 @@ this is a <br> line break
 <p><em>im italiced</em></p>
 <strong>im bolded</strong>
 <p><a href= "https://youtube.com">im a link</a></p>
+<img src= "https://jumpshare.com/s/Pw2OYRfoFDsyEU5kjIIW" width="100" height="100"> this is a picture that doesn't load for somereason
