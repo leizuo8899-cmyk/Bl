@@ -6,3 +6,7 @@
 <h5>im tiny</h5>
 <h6>im tiniest</h6>
 <button>im normal</button>
+<p>im a new paragraph</p>
+this is a <br> line break 
+<p><em>im italiced</em></p>
+<strong>im bolded</strong>
