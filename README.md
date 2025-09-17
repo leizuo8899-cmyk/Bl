@@ -1,6 +1,9 @@
 <strong><head>Stuff i learnt</head></strong>
 <html>
 <body>
+<head>
+<link ref="stylesheet" href="style.css">
+</head>
 <h1>im big</h1>
 <h2>im mid</h2>
 <h3>im small</h3>
